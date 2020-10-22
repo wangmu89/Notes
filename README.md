@@ -1,2 +1,2 @@
 # Notes
-Lombok
+Lombok: https://projectlombok.org
